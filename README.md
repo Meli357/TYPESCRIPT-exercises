@@ -29,7 +29,7 @@
 ## Enums
 -Create enums
 
-## Union types
+## Combining types
 -Add union types
 -Create intersection types
 -Complete a mapped type
